@@ -1,4 +1,8 @@
 This is a file to test publishing to git
 
   git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+  git config --global user.name "Your Name" 
+
+  Hello there I am typing a comment
+
+  // This is for new branch 
