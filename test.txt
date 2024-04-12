@@ -5,4 +5,6 @@ This is a file to test publishing to git
 
   Hello there I am typing a comment
 
-  // This is for new branch 
+  // This is for new branch
+
+  //cloning branch and pushing back to github with this comment  
